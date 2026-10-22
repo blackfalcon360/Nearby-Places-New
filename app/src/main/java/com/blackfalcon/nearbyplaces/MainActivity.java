@@ -1,4 +1,4 @@
-package com.blackfalcon.nearbyplaces;
+package com.blackfalcon.nearbycities;
 
 import android.app.Activity;
 import android.app.AlertDialog;
